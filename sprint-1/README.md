@@ -13,7 +13,7 @@
 [Execício 4](./exercicios/ex_1.md)
 
 
-[Certificado Git e GitHub](./certificados/git_github.jpg)
+[Certificado Git e GitHub](./certificados/git_github.jpg)<br>
 <img src="./certificados/git_github.jpg" width="400">
 
 # Olá meu nome é Aristides Henrique
