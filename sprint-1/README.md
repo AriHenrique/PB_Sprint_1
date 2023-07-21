@@ -1,7 +1,20 @@
-# D&A - AWS [Compass.uol](https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass+uol)
+# Sprint 1 - git/github/linux
 
-### Preparamos esta trilha de aprendizagem para que você possa navegar pelas diferentes tecnologias e metodologias aplicadas em projetos de dados utilizando os serviços de nuvem da AWS como plataforma. Organizamos o conteúdo em 10 Sprints, cada qual sendo executada em um período de 14 dias. É importante que você respeite a sequência de conteúdos e exercícios que estamos propondo para alcançar melhores resultados.
+#### Ferramentas de versionamento de código são essenciais para o sucesso de projetos que envolvem código. Atualmente o Git é padrão de mercado, sendo amplamente utilizado em projetos de dados. Não menos importantes são os sistemas operacionais baseados em Linux, cujo conhecimento dos princípios básicos de operação e comandos de terminal mais comuns são necessários a qualquer profissional da área de Data & Analytics.
 
+## Exercícios:
+
+[Execício 1](./exercicios/ex_1.md)
+
+[Execício 2](./exercicios/ex_1.md)
+
+[Execício 3](./exercicios/ex_1.md)
+
+[Execício 4](./exercicios/ex_1.md)
+
+
+[Certificado Git e GitHub](./certificados/git_github.jpg)
+<img src="./certificados/git_github.jpg" width="400">
 
 # Olá meu nome é Aristides Henrique
 
@@ -30,26 +43,3 @@ Como eu era conhecido como o "garoto da tecnologia" no meu bairro, frequentement
 Na escola, sempre que alguma professora ou funcionário tinha problemas com o computador, me chamavam para tentar arrumar. Foi nessa época que tive meu primeiro contato com o computador, ao experimentar jogar um emulador de GBA (Game Boy Advance), no qual consegui juntar dinheiro suficiente para comprar um disquete de 3,5 polegadas, com impressionantes 1.44 MB de capacidade, o suficiente para armazenar o emulador e o save do jogo.
 
 A única forma de acesso à internet naquela época era através da internet discada ou indo à biblioteca da cidade. Bons tempos aqueles...
-
-## Sprint 1 - git/github/linux
-
-#### Ferramentas de versionamento de código são essenciais para o sucesso de projetos que envolvem código. Atualmente o Git é padrão de mercado, sendo amplamente utilizado em projetos de dados. Não menos importantes são os sistemas operacionais baseados em Linux, cujo conhecimento dos princípios básicos de operação e comandos de terminal mais comuns são necessários a qualquer profissional da área de Data & Analytics.
-
-### Exercícios:
-
-[Execício 1](./exercicios/ex_1.md)
-
-[Execício 2](./exercicios/ex_1.md)
-
-[Execício 3](./exercicios/ex_1.md)
-
-[Execício 4](./exercicios/ex_1.md)
-
-[Certificado Git e GitHub](./certificados/git_github.jpg)
-
-## Sprint 2 - Big Data e SQL
-### em breve...
-## Sprint 3 - Fundamentos Python
-### em breve...
-
-## Sprint 4, 5, 6 ...
