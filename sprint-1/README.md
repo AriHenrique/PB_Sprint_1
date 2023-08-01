@@ -22,8 +22,8 @@
 #### 🏫Instituição de ensino: [PUC Minas São Gabriel](https://www.pucminas.br/unidade/sao-gabriel/Paginas/default.aspx)
 #### 👨‍🎓Curso e semestre atual: Sistemas de Informação (atualmente vim da universidade UNA - Aimorés e estava no 4º semestre)
 
-## **_<p align="center">Dos Encantos da Serralheria aos Códigos Mágicos:</p>_**
-### _<p align="center">A Fantástica Odisséia do Alquimista da Programação!_<br>🧰🚗💻🔮💊</p>
+## <p align="center">_Dos Encantos da Serralheria aos Códigos Mágicos:_</p>
+ <h3 align="center">**_A Fantástica Odisséia do Alquimista da Programação!_**<br>🧰🚗💻🔮💊</h3>
 
 Era uma vez um habilidoso "mestre das ferramentas", que brilhou no SENAI como um verdadeiro encantador de metais. Sua serralheria era tão espetacular que parecia um verdadeiro show de mágica! ✨💪
 
@@ -54,7 +54,7 @@ Durante minha trajetória como desenvolvedor, mergulhei no universo da programa�
 Além de minha paixão pela tecnologia, tenho interesses além do mundo digital. Sou uma pessoa extrovertida, que valoriza a colaboração e o compartilhamento de conhecimentos. Atuar como monitor em minha empresa, auxiliando estagiários e profissionais em seu crescimento, é algo que me traz grande satisfação. Acredito no trabalho em equipe e na comunicação contínua como fundamentais para alcançar resultados excepcionais.
 
 
-## Hobbies
+## Hobbies:
 
 Fora do ambiente profissional, desfruto de momentos de lazer jogando jogos de tabuleiro 🕹️🧩, uma atividade que estimula a estratégia e o trabalho em equipe. Além disso, estou empenhado em aprimorar minhas habilidades linguísticas e estou ativamente aprendendo inglês.
 
