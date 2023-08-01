@@ -23,7 +23,7 @@
 #### 👨‍🎓Curso e semestre atual: Sistemas de Informação (atualmente vim da universidade UNA - Aimorés e estava no 4º semestre)
 
 ## <p align="center">_Dos Encantos da Serralheria aos Códigos Mágicos:_</p>
- <h3 align="center">**_A Fantástica Odisséia do Alquimista da Programação!_**<br>🧰🚗💻🔮💊</h3>
+**<h3 align="center">_A Fantástica Odisséia do Alquimista da Programação!_<br>🧰🚗💻🔮💊</h3>**
 
 Era uma vez um habilidoso "mestre das ferramentas", que brilhou no SENAI como um verdadeiro encantador de metais. Sua serralheria era tão espetacular que parecia um verdadeiro show de mágica! ✨💪
 
